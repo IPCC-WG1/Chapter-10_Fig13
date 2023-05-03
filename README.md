@@ -1,5 +1,6 @@
 ATTRIBUTION OF THE SOUTHWESTERN NORTH AMERICA PRECIPITATION DECLINE
 ===================================================================
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6787506.svg)](https://doi.org/10.5281/zenodo.6787506)
 
 Figure number: Figure 10.13
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 10
